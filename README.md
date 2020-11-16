@@ -7,6 +7,9 @@ Idea behind our project is to reproduce the work of https://github.com/nikhilmar
 
 This neural system for image captioning is roughly based on the paper "Show and Tell: A Neural Image Caption Generatorn" by Vinayls et al. (ICML2015). The input is an image, and the output is a sentence describing the content of the image. It uses a convolutional neural network to extract visual features from the image, and uses a LSTM recurrent neural network to decode these features into a sentence. This project is implemented using the Tensorflow library, and allows end-to-end training of both CNN and RNN parts.
 
+Large Parts of this repo are also derived from the work of https://github.com/Shedka/citiesatnight , Thanks for giving examples of how to implement FRQI and also Quantum State Overlap
+
+
 
 Prerequisites:
 
