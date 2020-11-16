@@ -22,6 +22,13 @@ tqdm
 
 References
 
-https://arxiv.org/pdf/1411.4555.pdf. By Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan ICML 2015.
-Adapted from earlier implementation in Tensorflow https://github.com/DeepRNN/image_captioning
-Adapeted and inspired by https://github.com/nikhilmaram/Show_and_Tell 
+[1]https://arxiv.org/pdf/1411.4555.pdf. By Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan ICML 2015.
+[2] Adapted from earlier implementation in Tensorflow https://github.com/DeepRNN/image_captioning
+[3]Adapeted and inspired by https://github.com/nikhilmaram/Show_and_Tell 
+[4] https://arxiv.org/pdf/1801.01465.pdf
+[5] https://arxiv.org/pdf/1812.11042.pdf
+[6] https://www.jstage.jst.go.jp/article/fss/25/0/25_0_185/_pdf
+[7] https://www.researchgate.net/publication/333585825_Quantum_Image_Edge_Detection_Algorithm
+[8] https://pdfs.semanticscholar.org/b1d1/e8a9d6173458687bdfdc5a654423444f15b0.pdf
+[9] https://arxiv.org/abs/1803.04114
+[10] https://github.com/Shedka/citiesatnight
